@@ -7,6 +7,9 @@ Sometimes, cookies being formatted strings, it can be intricate to deal with the
 
 > *Note: For never-expire-cookies we used the arbitrarily distant date <samp>Fri, 31 Dec 9999 23:59:59 GMT</samp>. If for any reason you are afraid of such a date, use the [conventional date of end of the world](http://en.wikipedia.org/wiki/Year_2038_problem) <samp>Tue, 19 Jan 2038 03:14:07 GMT</samp> – which is the maximum number of seconds elapsed since since <samp>1 January 1970 00:00:00 UTC</samp> expressible by a [signed 32-bit integer](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Operators/Bitwise_Operators#Signed_32-bit_integers) (i.e.: <samp>01111111111111111111111111111111</samp>, which is `new Date(0x7fffffff * 1e3)`).*
 
+### Install
+`bower install doc-cookies`
+
 ### Writing a cookie
 
 ###### Syntax
