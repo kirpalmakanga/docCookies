@@ -1,0 +1,17 @@
+{
+  "name": "doc-cookies",
+  "main": "docCookies.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/kirpalmakanga/docCookies",
+  "authors": [
+    "fusionchess (https://developer.mozilla.org/en-US/docs/User:fusionchess)"
+  ],
+  "description": "A complete cookies reader/writer framework with full unicode support",
+  "moduleType": [],
+  "keywords": [
+    "mozilla",
+    "cookie",
+    "browser"
+  ],
+  "license": "GPL-3.0"
+}
