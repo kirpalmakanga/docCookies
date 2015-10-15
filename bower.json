@@ -1,7 +1,7 @@
 {
   "name": "doc-cookies",
   "main": "js/docCookies.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/kirpalmakanga/docCookies",
   "authors": [
     "fusionchess (https://developer.mozilla.org/en-US/docs/User:fusionchess)"
